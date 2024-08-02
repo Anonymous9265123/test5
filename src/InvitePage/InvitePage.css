@@ -1,0 +1,11 @@
+.invite-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .invite-container .earned-clicks {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
