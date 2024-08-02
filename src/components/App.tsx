@@ -23,7 +23,7 @@ export const App: FC = () => {
     const viewport = useViewport();
 
     //edit to null and uncomment useffect for desktop restriction
-    const [isMobile, setIsMobile] = useState<boolean | null>(true);
+    // const [isMobile, setIsMobile] = useState<boolean | null>(true);
 
     // useEffect(() => {
     //     const userAgent = navigator.userAgent;
